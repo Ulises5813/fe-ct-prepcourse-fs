@@ -10,7 +10,7 @@ function obtenerMayor(x, y) {
    } else {
       return y;
 
-   }
+   } 
 }
 
 function mayoriaDeEdad(edad) {
@@ -188,6 +188,18 @@ function doWhile(num) {
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {  
+   obtenerMayor,
+   mayoriaDeEdad,
+   conection,
+   saludo,
+   colors,
+   esDiezOCinco,
+   estaEnRango,
+   esEntero,
+   fizzBuzz,
+   operadoresLogicos,
+   esPrimo,
+   esVerdadero,
    tieneTresDigitos,
    doWhile,
 };
