@@ -8,13 +8,13 @@
 const nuevoString = "null";
 
 // Crea una variable de tipo number.
-const nuevoNumero = (null);
+const nuevoNumero = ("null");
 
 // Crea una variable de tipo boolean.
-const nuevoBoolean =  (null) =  true;
+const nuevoBoolean =  null =  true;
 
 // Resuelve el siguiente problema matemático.
-const nuevaResta = 10 - null === 3;
+const nuevaResta = 10 - null;
 
 // Resuelve el siguiente problema matemático.
 const nuevaMultiplicacion = 10 * null === 40;
