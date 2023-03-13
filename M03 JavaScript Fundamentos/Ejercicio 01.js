@@ -11,10 +11,10 @@ const nuevoString = "null";
 const nuevoNumero = ("null");
 
 // Crea una variable de tipo boolean.
-const nuevoBoolean =  null =  true;
+const nuevoBoolean =  4 =  true;
 
 // Resuelve el siguiente problema matemático.
-const nuevaResta = 10 - null;
+const nuevaResta = 10 - 4;
 
 // Resuelve el siguiente problema matemático.
 const nuevaMultiplicacion = 10 * null === 40;
